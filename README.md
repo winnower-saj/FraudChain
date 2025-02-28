@@ -20,7 +20,7 @@ FraudChain is trained on the **Elliptic Bitcoin Transaction Dataset**, which con
   - `0 = Legitimate`
   - `Unknown = Removed from training`
 
-**[Download Dataset](https://www.kaggle.com/datasets/ellipticco/elliptic-bitcoin-transactions)**
+**[Download Dataset](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set/data)**
 
 ---
 
